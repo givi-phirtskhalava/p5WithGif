@@ -3,7 +3,6 @@
   "repository": "processing/p5.js",
   "scripts": {
     "build": "grunt build",
-    "prepare": "grunt build",
     "dev": "grunt yui browserify:dev connect:yui watch:quick",
     "docs": "grunt yui",
     "docs:dev": "grunt yui:dev",
