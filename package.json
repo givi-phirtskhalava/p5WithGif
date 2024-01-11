@@ -1,5 +1,5 @@
 {
-  "name": "p5",
+  "name": "p5-gif-changes",
   "repository": "processing/p5.js",
   "scripts": {
     "build": "grunt build",
